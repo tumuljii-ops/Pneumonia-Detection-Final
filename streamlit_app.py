@@ -37,7 +37,7 @@ if uploaded_file:
 
         response = requests.post(
 
-            "http://127.0.0.1:8000/predict",
+            "https://pneumonia-detection-final-2.onrender.com",
 
             files=files
         )
