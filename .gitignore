@@ -15,3 +15,5 @@ src/__pycache__/
 .vscode/
 
 !best_mobilenetv2.keras
+
+*.keras
