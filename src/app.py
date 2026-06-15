@@ -4,7 +4,7 @@ from fastapi import File
 
 import shutil
 
-from predict import predict_image
+from src.predict import predict_image
 
 app = FastAPI()
 
