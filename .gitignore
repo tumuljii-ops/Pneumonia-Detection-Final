@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+dataset/
+processed_data/
+
+src/__pycache__/
+
+*.log
+
+.vscode/
+
+!best_mobilenetv2.keras
