@@ -47,3 +47,6 @@ F1 Score: 0.92
 - Real-time Prediction
 - Confidence Score
 - End-to-End Deployment
+
+## link
+- https://pneumonia-detection-final-o5ouoyks99js3zresnsqdm.streamlit.app/
