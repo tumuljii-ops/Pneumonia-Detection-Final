@@ -41,9 +41,6 @@ if uploaded_file:
 
             result = response.json()
 
-            st.write("API Response:")
-            st.json(result)
-
             if "prediction" in result:
 
                 st.success(
